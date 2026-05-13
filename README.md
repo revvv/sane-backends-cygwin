@@ -1,4 +1,4 @@
-### SANE scanner driver for Canon CanoScan LiDE 20 on Windows 10 64 bit
+### SANE scanner driver for Canon CanoScan LiDE 20 on Windows 10/11 64 bit
 * Motivation: Canon does not provide a 64 bit driver
 * Tested with CanoScan N670/676U/LiDE20 (Plustek chip: `VID = 04A9 PID = 220D`)
 * Compatible with all [Plustek Scanners](http://www.sane-project.org/man/sane-plustek.5.html) (*untested*)
